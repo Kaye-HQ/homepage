@@ -1,58 +1,51 @@
 ---
-title: "An example journal article"
+title: Quantifying propagation effects of climate and vegetation changes on
+  evapotranspiration and streamflow signatures in yarlung tsangpo river basin
 authors:
-- me
-- Robert Ford
+  - me
+  - Yongqiang Zhang
+  - Congcong Li
+  - Ning Ma
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
-
-# Publication metadata — structured fields used by citation styles and BibTeX export.
+  - Equal contribution
+  - Equal contribution
+date: 2024-10-30
+publishDate: 2017-01-01T00:00:00Z
+publication_types:
+  - article-journal
 publication:
-  name: "Journal of Source Themes"
+  name: Journal of Source Themes
   volume: 1
   issue: 1
-
 peer_reviewed: true
 open_access: true
 license: CC-BY-4.0
-
-# Awards, honors, and recognitions. Surfaced as badges on the page and in listings.
-# Note: a Test of Time award years after publication uses an explicit `date` that differs from the page date.
 awards:
-  - name: "Test of Time Award"
+  - name: Test of Time Award
     level: winner
     date: "2025"
-    note: "Awarded for sustained impact 10 years after publication."
-  - name: "Editor's Choice"
+    note: Awarded for sustained impact 10 years after publication.
+  - name: Editor's Choice
     level: featured
-
 funding:
-  - funder: "National Science Foundation"
-    grant: "NSF-1234567"
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
+  - funder: National Science Foundation
+    grant: NSF-1234567
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
+  urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci,
+  mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in
+  dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
+  arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
+  eleifend gravida.
+summary: "Study region Yarlung Tsangpo River basin (YTRB) went through
+  significant increases in precipitation, temperature and leaf area index (LAI)
+  during 1982–2018. Study focus This study aims to investigate "
+tags: []
 featured: false
-
 hugoblox:
   ids:
     arxiv: 1512.04133v1
-
 links:
   - type: pdf
     url: http://arxiv.org/pdf/1512.04133v1
@@ -70,27 +63,13 @@ links:
     url: ""
   - type: video
     url: ""
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/projects/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
 > [!NOTE]
