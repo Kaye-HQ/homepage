@@ -1,3 +1,21 @@
+
+---
+linkTitle: Courses
+title: Shared hydrological knowledge in 10 minutes!
+date: 2026-10-13
+type: pdf
+
+build:
+  list: never
+  render: never
+
+cascade:
+  - build:
+      list: never
+      render: never
+---
+
+<!-- 
 ---
 linkTitle: Hugo Blox
 title: Learn Hugo Blox in 10 minutes!
@@ -25,4 +43,4 @@ This course provides a brief introduction to creating and editing your site with
 
 {{< cards >}}
   {{< card url="getting-started" title="Get Started" icon="document-text" subtitle="Setup your new site in just 5 minutes!" >}}
-{{< /cards >}}
+{{< /cards >}} -->
