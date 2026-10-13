@@ -8,8 +8,9 @@ tags:
   - Hugo
   - HugoBlox
   - Markdown
+status: archived
+draft: true
 ---
-
 PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
 
 <!--more-->

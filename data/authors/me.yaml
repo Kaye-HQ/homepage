@@ -13,14 +13,14 @@ postnominals:
   - "NINHM"
 status:
   icon: "🌟"
-role: "Senior Hydrological extremes Research Scientist"
+role: "Assistant professor"
 bio: "Qi Huang is currently an assistant professor at the National Institute of Natural Hazards. Her researches focus on changes in hydrological extremes. She is one of the recipients of the 2021 International Association of Chinese Youth in Water Sciences(CYwater) Outstanding Paper Award, Liu Guangwen Scholarship, and Outstanding Graduate Student of IGSNRR and SCU. "
 affiliations:
-  - name: "Meta AI"
-    url: "https://ai.meta.com/"
+  - name: "National Institute of Natural Hazards, Ministry of Emergency Management of China, Beijing, China,"
+    url: "https://www.ninhm.ac.cn/"
 links:
   - icon: "hero/at-symbol"
-    url: "qihuang@ninhm.ac.cn"
+    url: "mailto:qihuang@ninhm.ac.cn"
     label: "Email"
   - icon: "academicons/researchgate"
     url: "https://www.researchgate.net/profile/Qi-Huang-75"
@@ -34,51 +34,45 @@ links:
   - icon: "academicons/orcid"
     url: "https://orcid.org/0000-0002-5753-2724"
 interests:
-  - "Large Language Models"
-  - "Computer Vision"
-  - "Reinforcement Learning"
-  - "AI Ethics"
+  - "Hydrological extremes"
 education:
-  - degree: "PhD Computer Science"
-    institution: "Stanford University"
-    start: "2015-09-01"
-    end: "2019-06-30"
-    summary: "Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.\n"
-    button:
-      text: "Download dissertation"
-      url: "/resume.pdf"
-      icon: "hero/arrow-down-tray"
-  - degree: "MS Computer Science"
-    institution: "Carnegie Mellon University"
-    start: "2013-09-01"
-    end: "2015-05-31"
-  - degree: "BS Computer Science"
-    institution: "MIT"
-    start: "2009-09-01"
-    end: "2013-05-31"
+  - degree: null
+    institution: "Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences"
+    end: "2025-06-30"
+  - degree: null
+    institution: "University of Zurich"
+    start: "2023-10-23"
+    end: "2024-10-20"
+  - degree: null
+    institution: "Sichuan University"
+  - degree: "Study"
+    institution: "Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences"
+    start: "2021-09-01"
+    end: "2025-06-30"
+  - degree: "Study in Institute of Geography"
+    institution: "University of Zurich"
+    start: "2023-10-23"
+    end: "2024-10-20"
+  - degree: "Study"
+    institution: "Sichuan University"
+    start: "2014-09-01"
+    end: "2021-07-01"
 experience:
-  - role: "Senior AI Research Scientist"
-    org: "Meta AI"
-    start: "2020-01-01"
-    summary: "Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.\n"
-    button:
-      text: "View portfolio"
-      url: "/"
-      icon: "hero/arrow-down-tray"
-  - role: "AI Research Intern"
-    org: "OpenAI"
-    start: "2019-06-01"
-    end: "2019-12-31"
-    summary: "Worked on GPT-3 scaling. Co-authored paper on prompt engineering.\n"
+  - role: "Assistant professor"
+    org: "National Institute of Natural Hazards"
+    start: "2025-07-11"
 skills:
   - name: "Technical Skills"
     items:
-      - label: "Python"
-        level: 5
-      - label: "Machine Learning"
-        level: 5
       - label: "R"
-        level: 4
+        level: 3
+        icon: "code"
+      - label: "python"
+        level: 3
+        icon: "code"
+      - label: "matlab"
+        level: 3
+        icon: "code"
   - name: "Research & Communication"
     items:
       - label: "Academic Writing"

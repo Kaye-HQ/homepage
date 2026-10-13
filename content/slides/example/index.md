@@ -1,48 +1,31 @@
 ---
 title: "Example Talk: Recent Work"
 date: 2024-01-01
-# `type: slides` is inferred from folder, but can be set explicitly:
 type: slides
 summary: "A quick tour of recent research highlights: multimodal LLMs, efficient training, and responsible AI."
 slides:
-  theme: black  # Options: black, white, league, beige, sky, night, serif, simple, solarized
-  highlight_style: dracula  # Code syntax highlighting theme
-  diagram: true  # Enable Mermaid diagrams for flowcharts, etc.
+  theme: black
+  highlight_style: dracula
+  diagram: true
   reveal_options:
-    controls: true      # Show navigation arrows
-    progress: true      # Show progress bar
-    slideNumber: true   # Show slide numbers
-    hash: true          # Update URL when navigating slides
-
-  # BRANDING: Add logo, title overlay, and footer to your presentation
-  # All settings are optional - remove any you don't need
+    controls: true
+    progress: true
+    slideNumber: true
+    hash: true
   branding:
-    # LOGO: Display your organization's logo
     logo:
-      filename: "slides-logo.svg"   # File in assets/media/ folder (SVG recommended for any theme)
-      position: "top-right"         # Options: top-left, top-right, bottom-left, bottom-right
-      width: "50px"                 # Logo width (height scales automatically)
-      # margin: "20px"              # Distance from edge (optional, default: 20px)
-    
-    # TITLE OVERLAY: Show presentation title on every slide
+      filename: slides-logo.svg
+      position: top-right
+      width: 50px
     title:
-      show: true                    # Set to false to hide
-      position: "bottom-left"       # Options: top-left, top-right, bottom-left, bottom-right
-      # text: "Short Title"         # Optional: override the page title with custom text
-      # margin: "20px"              # Distance from edge (optional)
-    
-    # AUTHOR OVERLAY: Show author name on every slide
-    # author:
-    #   show: true
-    #   position: "bottom-right"
-    
-    # FOOTER TEXT: Display copyright, conference name, etc.
+      show: true
+      position: bottom-left
     footer:
-      text: "© 2026 HugoBlox"       # Supports Markdown (e.g., links)
-      position: "bottom-center"     # Options: top-left, top-right, bottom-left, bottom-right, bottom-center
+      text: © 2026 HugoBlox
+      position: bottom-center
+status: archived
+draft: true
 ---
-
-
 <!-- no-branding -->
 # Example Talk
 ### Dr. Alex Johnson · Meta AI

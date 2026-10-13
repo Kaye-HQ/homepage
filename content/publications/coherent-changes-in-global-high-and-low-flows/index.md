@@ -6,21 +6,25 @@ authors:
   - Yongqiang Zhang
 author_notes:
   - ""
-date: 2026-03-01T09:42:59.624Z
-publishDate: 2026-03-01T09:42:59.624Z
+date: '2026-03-01'
+publishDate: 2026-03-01T09:42:59.624000Z
 publication_types:
   - article-journal
-publication: "*Journal Name*"
+publication:
+  name: Journal of Hydrology X
 publication_short: ""
 abstract: |
   Summarize the study design, methods, and key results.
-summary: Streamflow shifts threaten water security under climate change. While gauged basins have been extensively studied, ungauged regions remain poorly characterized. Using high- and low-flow trends from 2,
+summary: Streamflow shifts threaten water security under climate change. While gauged basins have 
+  been extensively studied, ungauged regions remain poorly characterized. Using high- and low-flow 
+  trends from 2,
 tags:
   - Research
 featured: false
 hugoblox:
   ids:
     arxiv: ""
+    doi: 10.1016/j.hydroa.2025.100212
 links:
   - type: pdf
     url: ""
@@ -45,5 +49,7 @@ image:
 projects: []
 slides: ""
 status: published
+orcid_date_precision: month
+doi: 10.1016/j.hydroa.2025.100212
 ---
 <!-- Add the paper text or supplementary notes. Markdown, math, and code are supported. -->
