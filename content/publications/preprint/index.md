@@ -12,7 +12,7 @@ publication_types:
   - article-journal
 summary: "Vegetation greening profoundly impacts the water cycle, and recent
   concerns about greening impacts have focused on various hydrological cycle
-  components. However, the impacts of greening on catchment "
+  components. "
 tags:
   - Academic
 featured: true

@@ -1,3 +1,16 @@
+---
+title: Courses
+
+build:
+  list: never
+  render: never
+
+cascade:
+  - build:
+      list: never
+      render: never
+---
+
 <!-- ---
 title: Courses
 summary: My courses

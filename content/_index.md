@@ -26,15 +26,6 @@ sections:
         shape: "circle"
     ce: "section-94c9c4fb"
     As: "section-703387d0"
-  - block: "markdown"
-    content:
-      title: "📚 My Research"
-      subtitle: ""
-      text: "My research focuses on hydrological extremes. See [my ORCID profile](https://orcid.org/0000-0002-5753-2724) for publicly listed research outputs."
-    design:
-      columns: "1"
-    ce: "section-85424cea"
-    As: "section-1db7e5f3"
   - block: "collection"
     content:
       title: "Featured Publications"
@@ -63,6 +54,15 @@ sections:
       view: "citation"
     ce: "section-344e38ac"
     As: "section-3fa95cd1"
+  - block: "markdown"
+    content:
+      title: "📚 My Research"
+      subtitle: ""
+      text: "My research focuses on hydrological extremes. See [my ORCID profile](https://orcid.org/0000-0002-5753-2724) for publicly listed research outputs."
+    design:
+      columns: "1"
+    ce: "section-85424cea"
+    As: "section-1db7e5f3"
   - block: "collection"
     content:
       title: "Recent & Upcoming Talks"
