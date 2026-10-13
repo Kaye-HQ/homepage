@@ -1,103 +1,105 @@
 ---
-# Leave the homepage title empty to use the site title
-title: ''
-summary: ''
-date: 2022-10-24
-type: landing
-
+title: ""
+summary: ""
+date: "2022-10-24"
+type: "landing"
 sections:
-  - block: resume-biography-3
+  - block: "resume-biography-3"
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: me
-      text: ''
-      # Show a call-to-action button under your biography? (optional)
+      username: "me"
+      text: ""
       button:
-        text: Download CV
-        url: uploads/Curriculum Vitae-QH-2026-EN.pdf
+        text: "Download CV"
+        url: "uploads/Curriculum Vitae-QH-2026-EN.pdf"
       headings:
-        about: ''
-        education: ''
-        interests: ''
+        about: ""
+        education: ""
+        interests: ""
     design:
-      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
           enable: true
-
-      # Name heading sizing to accommodate long or short names
       name:
-        size: md # Options: xs, sm, md, lg (default), xl
-
-      # Avatar customization
+        size: "md"
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
-  - block: markdown
+        size: "medium"
+        shape: "circle"
+    ce: "section-94c9c4fb"
+    As: "section-703387d0"
+  - block: "markdown"
     content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        My research focuses on hydrological extremes. See [my ORCID profile](https://orcid.org/0000-0002-5753-2724) for publicly listed research outputs.
+      title: "📚 My Research"
+      subtitle: ""
+      text: "My research focuses on hydrological extremes. See [my ORCID profile](https://orcid.org/0000-0002-5753-2724) for publicly listed research outputs."
     design:
-      columns: '1'
-  - block: collection
-    id: papers
+      columns: "1"
+    ce: "section-85424cea"
+    As: "section-1db7e5f3"
+  - block: "collection"
     content:
-      title: Featured Publications
+      title: "Featured Publications"
       filters:
         folders:
-          - publications
+          - "publications"
         featured_only: true
+        tags:
+          - "FeaturedPublications"
+          - ""
     design:
-      view: article-grid
+      view: "article-grid"
       columns: 2
-  - block: collection
+    ce: "section-papers"
+    id: "papers"
+    As: "section-d6e8cd38"
+  - block: "collection"
     content:
-      title: Recent Publications
-      text: ''
+      title: "Recent Publications"
+      text: ""
       filters:
         folders:
-          - publications
+          - "publications"
         exclude_featured: false
     design:
-      view: citation
-  - block: collection
-    id: talks
+      view: "citation"
+    ce: "section-344e38ac"
+    As: "section-3fa95cd1"
+  - block: "collection"
     content:
-      title: Recent & Upcoming Talks
+      title: "Recent & Upcoming Talks"
       filters:
         folders:
-          - events
+          - "events"
     design:
-      view: card
-  - block: collection
-    id: news
+      view: "card"
+    ce: "section-talks"
+    id: "talks"
+    As: "section-20a76ec0"
+  - block: "collection"
     content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: blog
-      # Choose how many pages you would like to display (0 = all pages)
+      title: "Recent News"
+      subtitle: ""
+      text: ""
+      page_type: "blog"
       count: 10
-      # Filter on criteria
       filters:
-        author: ''
-        category: ''
-        tag: ''
+        author: ""
+        category: ""
+        tag: ""
         exclude_featured: false
         exclude_future: false
         exclude_past: false
-        publication_type: ''
-      # Choose how many pages you would like to offset by
+        publication_type: ""
       offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
+      order: "desc"
     design:
-      # Choose a layout view
-      view: card
-      # Reduce spacing
+      view: "card"
       spacing:
-        padding: [0, 0, 0, 0]
+        padding:
+          - 0
+          - 0
+          - 0
+          - 0
+    ce: "section-news"
+    id: "news"
+    As: "section-27d28db8"
 ---

@@ -1,6 +1,6 @@
 ---
-title: Using remote sensing data-based hydrological model calibrations for predicting runoff in 
-  ungauged or poorly gauged catchments
+title: Using remote sensing data-based hydrological model calibrations for
+  predicting runoff in ungauged or poorly gauged catchments
 authors:
   - me
   - Guanghua Qin
@@ -12,7 +12,7 @@ authors:
   - David Post
 author_notes:
   - ""
-date: '2020-08-01'
+date: 2020-08-01
 publishDate: 2026-10-13T09:36:54.305000Z
 publication_types:
   - article-journal
@@ -21,11 +21,12 @@ publication:
 publication_short: ""
 abstract: |
   Summarize the study design, methods, and key results.
-summary: Because remote sensing (RS) data are spatially and temporally explicit and available across
-  the globe, they have the potential to be used for predicting runoff in ungauged catchments and 
-  poorly gauged
+summary: Because remote sensing (RS) data are spatially and temporally explicit
+  and available across the globe, they have the potential to be used for
+  predicting runoff in ungauged catchments and poorly gauged
 tags:
   - Research
+  - Academic
 featured: false
 hugoblox:
   ids:
@@ -57,5 +58,6 @@ slides: ""
 status: published
 orcid_date_precision: month
 doi: 10.1029/2020wr028205
+
 ---
 <!-- Add the paper text or supplementary notes. Markdown, math, and code are supported. -->
